@@ -1,6 +1,6 @@
 ### A RESTful social media api built on NodeJS
 
-Social network with Node.js, Express, Jwt & MongoDB.
+Social network api to share finish projects with Node.js, Express, Jwt & MongoDB.
 
 #### Features
 
@@ -11,3 +11,9 @@ Social network with Node.js, Express, Jwt & MongoDB.
 - Addition of the school degree
 - Using Gravatar for profile pictures
 - Permanent deletion of an account
+- Create project post
+- Update post
+- Delete post
+- List all post on profil
+
+
